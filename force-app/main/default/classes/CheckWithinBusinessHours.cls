@@ -1,3 +1,4 @@
+//version 2
 public class CheckWithinBusinessHours {
 	@InvocableMethod(label = 'Within Business Hours Check')
 	public static list <Boolean> makeGetCallout(List<CriteriaInputs> inputs ) {
